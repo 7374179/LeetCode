@@ -1,7 +1,5 @@
 class Solution {
     public boolean isMajorityElement(int[] nums, int target) {
-        Arrays.sort(nums);
-
         int left=0;
         int right=nums.length-1;
         int sum=0;
