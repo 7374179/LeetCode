@@ -2,13 +2,6 @@ class Solution {
     public List<List<Integer>> findMatrix(int[] nums) {
         List<List<Integer>> list = new ArrayList<>();
 
-        for(int i=0;i<nums.length;i++){
-            List<Integer> dist = new ArrayList<>();
-            if(!dist.contains(nums[i])){
-                dist.add(nums[i]);
-            }
-        }
-
         int i=0;
         int count=0;
         while(count<nums.length){
