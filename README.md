@@ -22,10 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/7374179/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/7374179/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1813-maximum-erasure-value](https://github.com/7374179/LeetCode/tree/master/1813-maximum-erasure-value) |
 ## Hash Table
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/7374179/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1813-maximum-erasure-value](https://github.com/7374179/LeetCode/tree/master/1813-maximum-erasure-value) |
 ## Counting
 |  |
 | ------- |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/7374179/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Sliding Window
+|  |
+| ------- |
+| [1813-maximum-erasure-value](https://github.com/7374179/LeetCode/tree/master/1813-maximum-erasure-value) |
 <!---LeetCode Topics End-->
