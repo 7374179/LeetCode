@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/7374179/LeetCode/tree/master/0118-pascals-triangle) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/7374179/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/7374179/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/7374179/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/7374179/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/7374179/LeetCode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
