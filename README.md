@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/7374179/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/7374179/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/7374179/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3396-valid-word](https://github.com/7374179/LeetCode/tree/master/3396-valid-word) |
 ## Depth-First Search
 |  |
