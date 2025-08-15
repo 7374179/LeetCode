@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/7374179/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/7374179/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/7374179/LeetCode/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/7374179/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/7374179/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/7374179/LeetCode/tree/master/0342-power-of-four) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/7374179/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/7374179/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
@@ -18,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/7374179/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/7374179/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/7374179/LeetCode/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/7374179/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
