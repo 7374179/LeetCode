@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/7374179/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/7374179/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/7374179/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/7374179/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/7374179/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/7374179/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
