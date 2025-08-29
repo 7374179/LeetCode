@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/7374179/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/7374179/LeetCode/tree/master/0342-power-of-four) |
 | [1448-maximum-69-number](https://github.com/7374179/LeetCode/tree/master/1448-maximum-69-number) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/7374179/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/7374179/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
