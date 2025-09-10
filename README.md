@@ -119,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/7374179/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Database
+|  |
+| ------- |
+| [1551-npv-queries](https://github.com/7374179/LeetCode/tree/master/1551-npv-queries) |
 <!---LeetCode Topics End-->
