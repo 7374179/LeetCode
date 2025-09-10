@@ -123,4 +123,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1551-npv-queries](https://github.com/7374179/LeetCode/tree/master/1551-npv-queries) |
+| [3695-books-with-null-ratings](https://github.com/7374179/LeetCode/tree/master/3695-books-with-null-ratings) |
 <!---LeetCode Topics End-->
