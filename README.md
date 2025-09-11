@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/7374179/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/7374179/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/7374179/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/7374179/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/7374179/LeetCode/tree/master/3396-valid-word) |
 ## Depth-First Search
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2887-sort-vowels-in-a-string](https://github.com/7374179/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3748-sort-matrix-by-diagonals](https://github.com/7374179/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Matrix
 |  |
