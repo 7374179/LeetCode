@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/7374179/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/7374179/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/7374179/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/7374179/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/7374179/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3748-sort-matrix-by-diagonals](https://github.com/7374179/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/7374179/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -52,12 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/7374179/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/7374179/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/7374179/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/7374179/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/7374179/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/7374179/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/7374179/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/7374179/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/7374179/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
