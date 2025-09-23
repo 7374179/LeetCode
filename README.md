@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/7374179/LeetCode/tree/master/0165-compare-version-numbers) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/7374179/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/7374179/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/7374179/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -136,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-project-employees-ii](https://github.com/7374179/LeetCode/tree/master/1162-project-employees-ii) |
 | [1551-npv-queries](https://github.com/7374179/LeetCode/tree/master/1551-npv-queries) |
 | [3695-books-with-null-ratings](https://github.com/7374179/LeetCode/tree/master/3695-books-with-null-ratings) |
+## Two Pointers
+|  |
+| ------- |
+| [0165-compare-version-numbers](https://github.com/7374179/LeetCode/tree/master/0165-compare-version-numbers) |
 <!---LeetCode Topics End-->
