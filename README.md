@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/7374179/LeetCode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/7374179/LeetCode/tree/master/0120-triangle) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/7374179/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/7374179/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/7374179/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/7374179/LeetCode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/7374179/LeetCode/tree/master/0120-triangle) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/7374179/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/7374179/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Binary Search
